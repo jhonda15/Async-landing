@@ -1,0 +1,20 @@
+{
+  "name": "Async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonda15/Async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonda15/Async-landing/issues"
+  },
+  "homepage": "https://github.com/jhonda15/Async-landing#readme"
+}
